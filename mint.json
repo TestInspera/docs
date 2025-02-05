@@ -74,5 +74,14 @@
     "integrations": {
         "intercom": "APP_ID",
         "frontchat": "CHAT_ID"
-    }
+    },
+  "font": {
+  "headings": {
+    "family": "Manrope"
+  },
+  "body": {
+    "family": "Manrope"
+  }
+}
+
 }
