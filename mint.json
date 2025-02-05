@@ -37,10 +37,12 @@
     ],
     "navigation": [
         {
-            "group": "Intro to Inspera Originality",
+            "group": "Originality Report",
             "pages": [
-                "introduction",
-                "quickstart"
+                "navigation-tabs",
+                "summary-view",
+                "sentence-highlights",
+                "in-depth-analyses",
             ]
         },
         {
