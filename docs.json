@@ -24,7 +24,7 @@
           {
             "group": "Essentials",
             "pages": [
-              "essentials/markdown",
+              "essentials/bulk-upload-subjects",
               "essentials/code",
               "essentials/images",
               "essentials/settings",
